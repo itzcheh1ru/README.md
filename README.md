@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Hirusha Thisayuru Ellawala</h1>
 <!-- <h3 align="center">A passionate Software developer from Sri Lanka</h3> -->
 
 - 🌱 I’m currently learning **Flutter, React Native, Android, IOS, and SRE best practices**
@@ -16,36 +16,11 @@
 
 </br>
 
-<!--profile visit count-->
-<div align="center">
-  
-<!-- GitHub Profile Visit Counter -->
-<img src="https://komarev.com/ghpvc/?username=chalaniS&color=blue" alt="profile views" />  
-</div>
-
-
-
-### 💼 Professional Highlights
-
-* 👩‍💼 **Associate Site Reliability Engineer**
-  *Unified Support - Monitoring & Logging Team, IFS*
-
-  * Monitored and resolved incidents in prod/non-prod environments
-  * Worked with PL/SQL, alerting systems, and customer-facing cases
-  * Tools: Prometheus, Grafana, Nagios, CI/CD pipelines
-
-* 👩‍💻 **Flutter Intern Developer**
-  *Elegant Media, Sri Lanka*
-
-  * Built and maintained Android apps using Flutter
-  * Participated in client meetings, requirement analysis & documentation
-
 * 📈 **Technical Skills**
 
-  * **DevOps/Cloud:** Azure (AZ-900, AZ-104), Docker, Kubernetes, Linux, CI/CD
-  * **Languages:** Python, Java, Dart, JavaScript
-  * **Frameworks/Tools:** Flutter, React, Node.js, Prometheus, Git, Firebase
-  * **Monitoring & Automation:** Alerting, Logging, Auto-healing
+  * **DevOps/Cloud:** Azure (AZ-900, AZ-104), Docker, Linux
+  * **Languages:** Python,C++, Java, JavaScript
+  * **Frameworks/Tools:** Flutter, React, Node.js, Git
 
 ---
 
