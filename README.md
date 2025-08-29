@@ -10,10 +10,9 @@
   <li>📫 How to reach me: <strong>hirushathisayuruellawala@gmail.com</strong></li>
   <li>⚡ Fun fact: I enjoy finding patterns in data—and sometimes in life too. 😄</li>
 </ul>
+</br>
 
 ---
-
-</br>
 
 * 📈 **Technical Skills**
 
@@ -27,18 +26,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://itzcheh1ru.github.io/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="hirushathisayuruellawala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chalani-s-rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirushathisayuruellawala" height="30" width="40" /></a>
-<a href="https://fb.com/chalani.saumya.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chalani.saumya.750" height="30" width="40" /></a>
-<a href="https://instagram.com/c._h._e._m._y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c._h._e._m._y" height="30" width="40" /></a>
+<a href="https://github.com/itzcheh1ru" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="hirushathisayuruellawala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itzcheh1ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirushathisayuruellawala" height="30" width="40" /></a>
+<a href="https://facebook.com/hirusha.thisayuru.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirushathisayuruellawala" height="30" width="40" /></a>
+<a href="https://instagram.com/itzche__h1ru__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirushathisayuruellawala" height="30" width="40" /></a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-<!-- Programming Languages -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
@@ -69,8 +66,6 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 </a> 
-
-<!-- Data Science & ML -->
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
 </a> 
@@ -101,8 +96,6 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
 </a> 
-
-<!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
 </a> 
@@ -118,27 +111,11 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 </a> 
-
-<!-- Accounting Tools -->
 <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="sap" width="40" height="40"/> 
 </a> 
-<a href="https://www.sage.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sage_logo.svg" alt="sage" width="40" height="40"/> 
-</a> 
-<a href="https://quickbooks.intuit.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Intuit_QuickBooks_logo.svg" alt="quickbooks" width="40" height="40"/> 
-</a> 
-<a href="https://www.xero.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xero_software_logo.svg" alt="xero" width="40" height="40"/> 
-</a> 
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
-</a> 
-
-<!-- Cloud & Version Control -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws-wordmark" width="60" height="40"/> 
 </a> 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
@@ -152,20 +129,10 @@
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
 </a> 
-
-<!-- Others -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/> 
-</a> 
-
 </p>
-
