@@ -11,16 +11,19 @@
   <li>⚡ Fun fact: I enjoy finding patterns in data—and sometimes in life too. 😄</li>
 </ul>
 
+---
+
 </br>
 
 * 📈 **Technical Skills**
 
-  * **DevOps/Cloud:** Azure (AZ-900, AZ-104), Docker, Linux
-  * **Languages:** Python,C++, Java, JavaScript
-  * **Frameworks/Tools:** Flutter, React, Node.js, Git
+  * **Data Science & Analytics:** Data Analysis, Data Visualization (Matplotlib, Seaborn, Power BI, Excel), Machine Learning (Scikit-learn, TensorFlow, Pandas, NumPy), Statistical Modeling  
+  * **Programming Languages:** Python, R, SQL, C++, Java, JavaScript  
+  * **Cloud & Tools:** Azure (AZ-900, AZ-104), Docker, Linux, Git  
+  * **Accounting & Finance:** Financial Reporting, Management Accounting, Auditing, Budgeting, Financial Analysis, Taxation Principles, SAP S/4HANA, Sage 50  
+  * **Frameworks & Libraries:** Flutter, React, Node.js, Jupyter Notebook, Tableau  
 
 ---
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
