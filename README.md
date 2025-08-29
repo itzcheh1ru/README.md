@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hirusha Thisayuru Ellawala</h1>
-<h3 align="center">An aspiring data scientist with an accounting background in the making</h3>
+<h3 align="center">An aspiring data scientist with an accounting background in the making</h3><br>
 
 - 🌱 I’m currently learning **Flutter, React Native, Android, IOS, and SRE best practices**
 
