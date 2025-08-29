@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hirusha Thisayuru Ellawala</h1>
-<h3 align="center">An aspiring data scientist with an accounting background in the making</h3><br>
+<h3 align="center">An aspiring data scientist with an accounting background in the making</h3>
+<br>
 
-- 🌱 I’m currently learning **Flutter, React Native, Android, IOS, and SRE best practices**
-
-- 💬 Ask me about **Web, Android, IOS app, and love tackling challenges in cloud & DevOps**
-
-- 👩‍💻 Associate Site Reliability Engineer at IFS R&D International (Pvt) Ltd
-
-- 🎓 Undergraduate at SLIIT, specializing in Software Engineering
-
-- 📫 How to reach me **hirushathisayuruellawala@gmail.com**
-
-- ⚡ Fun fact: I think I’m funny. My code sometimes agrees. 😄
-
+<ul>
+  <li>🌱 I’m currently learning <strong>Python, Data Analysis, Data Visualization, Machine Learning, Accounting, Finance, and Management</strong></li>
+  <li>💬 Ask me about <strong>Data Analysis, Python, Data Visualization, Machine Learning, Accounting, and Finance</strong></li>
+  <li>🎓 Undergraduate at <strong>SLIIT</strong>, specializing in <strong>Software Engineering</strong></li>
+  <li>🎓 Undergraduate at the <strong>University of Sri Jayewardenepura</strong>, specializing in <strong>Accounting</strong></li>
+  <li>📫 How to reach me: <strong>hirushathisayuruellawala@gmail.com</strong></li>
+  <li>⚡ Fun fact: I enjoy finding patterns in data—and sometimes in life too. 😄</li>
+</ul>
 
 </br>
 
