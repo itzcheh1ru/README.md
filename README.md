@@ -139,6 +139,6 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzche_h1ru&show_icons=true&locale=en&layout=compact" alt="it22305282" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcheh1ru&show_icons=true&locale=en&layout=compact" alt="it22305282" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sithum-senanayake&show_icons=true&locale=en" alt="it22305282" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzcheh1ru&show_icons=true&locale=en" alt="it22305282" /></p>
