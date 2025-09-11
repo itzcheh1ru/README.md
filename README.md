@@ -5,9 +5,9 @@
 <ul>
   <li>🌱 I'm currently learning <strong>Python, Data Analysis, Data Visualization, Machine Learning, Accounting, Finance, and Management</strong></li>
   <li>💬 Ask me about <strong>Data Analysis, Python, Data Visualization, Machine Learning, Accounting, and Finance</strong></li>
-  <li>🎓 Undergraduate at <strong>SLIIT</strong>, specializing in <strong>Software Engineering</strong></li>
+  <li>🎓 Undergraduate at <strong>SLIIT</strong>, specialising in <strong>Data Science</strong></li>
   <li>🎓 Undergraduate at the <strong>University of Sri Jayewardenepura</strong>, specializing in <strong>Accounting</strong></li>
-  <li>📫 How to reach me: <strong>hirushathisayuruellawala@gmail.com</strong></li>
+  <li>📫 How to reach me: <strong>thisayuruhirusha@gmail.com</strong></li>
   <li>⚡ Fun fact: I enjoy finding patterns in data—and sometimes in life too. 😄</li>
 </ul>
 </br>
