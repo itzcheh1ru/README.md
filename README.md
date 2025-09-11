@@ -71,7 +71,6 @@ I'm a passionate dual-degree student pursuing both Data Science and Accounting, 
 
 - 🥇 **GCE A/L (Commerce) 2022/23**: District Rank <strong>15</strong> (Ratnapura), Island Rank <strong>315</strong>
 - ✅ **Microsoft Azure Fundamentals (AZ-900)**
-- ✅ **Microsoft Azure Administrator (AZ-104)**
 - 🎖️ **Amazon Skill Builder**: Multiple cloud and AWS fundamentals completions
 - 🎖️ **University of Moratuwa – Open Learning**: Completed multiple certificates (Data/IT domains)
 - 🎖️ **University of Kelaniya – SAP**: SAP fundamentals/certification
