@@ -20,8 +20,8 @@ I'm a passionate dual-degree student pursuing both Software Engineering and Acco
 
 **What drives me:**
 - 🔍 Uncovering insights from complex datasets
-- �� Building solutions that solve real-world business problems
-- �� Transforming raw data into actionable business intelligence
+- 💡 Building solutions that solve real-world business problems
+- 📊 Transforming raw data into actionable business intelligence
 - 🎯 Applying machine learning to financial and accounting domains
 
 ---
@@ -69,9 +69,12 @@ I'm a passionate dual-degree student pursuing both Software Engineering and Acco
 
 ## 🏆 **Achievements & Certifications**
 
+- 🥇 **GCE A/L (Commerce) 2022/23**: District Rank <strong>15</strong> (Ratnapura), Island Rank <strong>315</strong>
 - ✅ **Microsoft Azure Fundamentals (AZ-900)**
 - ✅ **Microsoft Azure Administrator (AZ-104)**
-- �� **Dual Degree Student** - Software Engineering & Accounting
+- 🎖️ **Amazon Skill Builder**: Multiple cloud and AWS fundamentals completions
+- 🎖️ **University of Moratuwa – Open Learning**: Completed multiple certificates (Data/IT domains)
+- 🎖️ **University of Kelaniya – SAP**: SAP fundamentals/certification
 - 📈 **Data Science Projects** - Multiple portfolio projects showcasing ML/AI skills
 
 ---
