@@ -40,7 +40,7 @@ I'm a passionate dual-degree student pursuing both Data Science and Accounting, 
 - **Web Technologies:** HTML5, CSS3, React, Node.js, Flutter
 
 ### **Cloud & DevOps**
-- **Cloud Platforms:** Microsoft Azure (AZ-900, AZ-104), AWS (Learning)
+- **Cloud Platforms:** Microsoft Azure (Learning), AWS (Learning)
 - **Tools:** Docker, Git, GitHub, GitLab, Linux
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, Oracle
 
