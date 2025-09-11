@@ -3,7 +3,7 @@
 <br>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Python, Data Analysis, Data Visualization, Machine Learning, Accounting, Finance, and Management</strong></li>
+  <li>🌱 I'm currently learning <strong>Python, Data Analysis, Data Visualization, Machine Learning, Accounting, Finance, and Management</strong></li>
   <li>💬 Ask me about <strong>Data Analysis, Python, Data Visualization, Machine Learning, Accounting, and Finance</strong></li>
   <li>🎓 Undergraduate at <strong>SLIIT</strong>, specializing in <strong>Software Engineering</strong></li>
   <li>🎓 Undergraduate at the <strong>University of Sri Jayewardenepura</strong>, specializing in <strong>Accounting</strong></li>
@@ -14,15 +14,95 @@
 
 ---
 
-* 📈 **Technical Skills**
+## 🚀 **About Me**
 
-  * **Data Science & Analytics:** Data Analysis, Data Visualization (Matplotlib, Seaborn, Power BI, Excel), Machine Learning (Scikit-learn, TensorFlow, Pandas, NumPy), Statistical Modeling  
-  * **Programming Languages:** Python, R, SQL, C++, Java, JavaScript  
-  * **Cloud & Tools:** Azure (AZ-900, AZ-104), Docker, Linux, Git  
-  * **Accounting & Finance:** Financial Reporting, Management Accounting, Auditing, Budgeting, Financial Analysis, Taxation Principles, SAP S/4HANA, Sage 50  
-  * **Frameworks & Libraries:** Flutter, React, Node.js, Jupyter Notebook, Tableau  
+I'm a passionate dual-degree student pursuing both Software Engineering and Accounting, with a keen interest in bridging the gap between technology and finance. My unique combination of technical skills and financial acumen allows me to approach data science problems with both analytical rigor and business understanding.
+
+**What drives me:**
+- 🔍 Uncovering insights from complex datasets
+- �� Building solutions that solve real-world business problems
+- �� Transforming raw data into actionable business intelligence
+- 🎯 Applying machine learning to financial and accounting domains
 
 ---
+
+## 📈 **Technical Skills**
+
+### **Data Science & Analytics**
+- **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Hypothesis Testing
+- **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau, Excel, Plotly
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Feature Engineering
+- **Statistical Modeling:** Regression Analysis, Classification, Clustering, Time Series Analysis
+
+### **Programming Languages**
+- **Primary:** Python, R, SQL
+- **Secondary:** C++, Java, JavaScript, C#, Kotlin
+- **Web Technologies:** HTML5, CSS3, React, Node.js, Flutter
+
+### **Cloud & DevOps**
+- **Cloud Platforms:** Microsoft Azure (AZ-900, AZ-104), AWS (Learning)
+- **Tools:** Docker, Git, GitHub, GitLab, Linux
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, Oracle
+
+### **Accounting & Finance**
+- **Financial Systems:** SAP S/4HANA, Sage 50, QuickBooks
+- **Areas:** Financial Reporting, Management Accounting, Auditing, Budgeting, Financial Analysis, Taxation
+
+---
+
+## 🎯 **Current Focus & Goals**
+
+- 🎯 **Short-term:** Mastering advanced machine learning algorithms and deep learning frameworks
+- 🎯 **Medium-term:** Building end-to-end data science projects with real business impact
+- 🎯 **Long-term:** Becoming a leading data scientist in the fintech industry
+- 🎯 **Learning:** Currently diving deep into PyTorch, advanced SQL, and cloud architecture
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcheh1ru&show_icons=true&locale=en&layout=compact" alt="it22305282" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzcheh1ru&show_icons=true&locale=en" alt="it22305282" /></p>
+
+---
+
+## 🏆 **Achievements & Certifications**
+
+- ✅ **Microsoft Azure Fundamentals (AZ-900)**
+- ✅ **Microsoft Azure Administrator (AZ-104)**
+- �� **Dual Degree Student** - Software Engineering & Accounting
+- 📈 **Data Science Projects** - Multiple portfolio projects showcasing ML/AI skills
+
+---
+
+## 💼 **Professional Interests**
+
+- **FinTech & Banking:** Applying data science to financial services
+- **Business Intelligence:** Creating dashboards and reports for decision-making
+- **Predictive Analytics:** Building models for forecasting and risk assessment
+- **Process Automation:** Streamlining accounting and financial processes through technology
+
+---
+
+## 🌟 **Featured Projects**
+
+*Coming soon - I'm working on some exciting data science projects that I'll be showcasing here!*
+
+---
+
+## 📚 **Learning Resources & Interests**
+
+- 📖 Currently reading: "Hands-On Machine Learning" by Aurélien Géron
+- 🎥 Following: Data science tutorials and financial modeling courses
+- 🔬 Research interests: Time series forecasting, anomaly detection, and financial risk modeling
+- 💡 Always exploring: New Python libraries and data visualization techniques
+
+---
+
+## 🤝 **Let's Connect!**
+
+I'm always excited to connect with fellow data scientists, developers, and finance professionals. Whether you want to discuss a project, share insights, or just have a chat about data and numbers, feel free to reach out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +114,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ **Languages and Tools:**
+
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -137,8 +218,8 @@
 </a> 
 </p>
 
-<br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzcheh1ru&show_icons=true&locale=en&layout=compact" alt="it22305282" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzcheh1ru&show_icons=true&locale=en" alt="it22305282" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itzcheh1ru&label=Profile%20views&color=0e75b6&style=flat" alt="itzcheh1ru" />
+</div>
