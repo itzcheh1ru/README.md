@@ -16,7 +16,7 @@
 
 ## 🚀 **About Me**
 
-I'm a passionate dual-degree student pursuing both Software Engineering and Accounting, with a keen interest in bridging the gap between technology and finance. My unique combination of technical skills and financial acumen allows me to approach data science problems with both analytical rigor and business understanding.
+I'm a passionate dual-degree student pursuing both Data Science and Accounting, with a keen interest in bridging the gap between technology and finance. My unique combination of technical skills and financial acumen allows me to approach data science problems with both analytical rigor and business understanding.
 
 **What drives me:**
 - 🔍 Uncovering insights from complex datasets
